@@ -3,4 +3,5 @@ def perimetr(arr):
     for i in arr:
         summa+=i
     return summa
+#commet
     
