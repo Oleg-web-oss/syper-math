@@ -1,3 +1,6 @@
 src/modules/perimetr.py
 src/modules/test/*.txt
-src/modules/test/
+!src/modules/test/test1.txt
+src/modules/d.txt
+src/modules/p.py
+
